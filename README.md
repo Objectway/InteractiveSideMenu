@@ -159,7 +159,7 @@ There is [an issue](https://github.com/handsomecode/InteractiveSideMenu/issues/5
 # Requirements
 - iOS 8.0+
 - Xcode 8.1+
-- Swift 3.0+
+- Swift 4.2+
 
 
 # License
